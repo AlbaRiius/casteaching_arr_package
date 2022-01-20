@@ -1,14 +1,29 @@
 {
   "name": "@albariius/casteaching_arr",
-  "version": "1.0.1",
-  "description": "casteaching Alba",
+  "version": "1.0.2",
+  "description": "Casteaching api service",
   "main": "index.js",
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbaRiius/casteaching_arr_package.git"
+  },
+  "keywords": [
+    "Casteaching",
+    "api",
+    "rest",
+    "laravel"
+  ],
   "author": "Alba Rius Rivas",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^0.25.0"
-  }
+  "bugs": {
+    "url": "https://github.com/AlbaRiius/casteaching_arr_package/issues"
+  },
+  "homepage": "https://github.com/AlbaRiius/casteaching_arr_package#readme"
 }
